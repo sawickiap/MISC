@@ -1,0 +1,201 @@
+Adapter 0:
+	DeviceName = \\.\DISPLAY1
+	DeviceString = AMD Radeon (TM) RX 480
+	StateFlags = ACTIVE PRIMARY_DEVICE
+	Display Device 0:
+		DeviceName = \\.\DISPLAY1\Monitor0
+		DeviceString = Generic PnP Monitor
+		StateFlags = ACTIVE
+	Display Mode Current: 1920 x 1080, 59 Hz, 32 bpp
+	Display Mode Registry: 1920 x 1080, 59 Hz, 32 bpp
+	Display Mode 0: 640 x 480, 59 Hz, 32 bpp
+	Display Mode 1: 640 x 480, 60 Hz, 32 bpp
+	Display Mode 2: 640 x 480, 75 Hz, 32 bpp
+	Display Mode 3: 720 x 480, 29 Hz, 32 bpp INTERLACED
+	Display Mode 4: 720 x 480, 30 Hz, 32 bpp INTERLACED
+	Display Mode 5: 720 x 480, 59 Hz, 32 bpp
+	Display Mode 6: 720 x 480, 60 Hz, 32 bpp
+	Display Mode 7: 720 x 576, 25 Hz, 32 bpp INTERLACED
+	Display Mode 8: 720 x 576, 50 Hz, 32 bpp
+	Display Mode 9: 720 x 576, 59 Hz, 32 bpp
+	Display Mode 10: 720 x 576, 60 Hz, 32 bpp
+	Display Mode 11: 720 x 576, 59 Hz, 32 bpp
+	Display Mode 12: 720 x 576, 60 Hz, 32 bpp
+	Display Mode 13: 720 x 576, 59 Hz, 32 bpp
+	Display Mode 14: 720 x 576, 60 Hz, 32 bpp
+	Display Mode 15: 800 x 480, 60 Hz, 32 bpp
+	Display Mode 16: 800 x 480, 60 Hz, 32 bpp
+	Display Mode 17: 800 x 480, 60 Hz, 32 bpp
+	Display Mode 18: 800 x 480, 75 Hz, 32 bpp
+	Display Mode 19: 800 x 480, 75 Hz, 32 bpp
+	Display Mode 20: 800 x 480, 75 Hz, 32 bpp
+	Display Mode 21: 800 x 600, 60 Hz, 32 bpp
+	Display Mode 22: 800 x 600, 75 Hz, 32 bpp
+	Display Mode 23: 1024 x 600, 60 Hz, 32 bpp
+	Display Mode 24: 1024 x 600, 60 Hz, 32 bpp
+	Display Mode 25: 1024 x 600, 60 Hz, 32 bpp
+	Display Mode 26: 1024 x 600, 70 Hz, 32 bpp
+	Display Mode 27: 1024 x 600, 70 Hz, 32 bpp
+	Display Mode 28: 1024 x 600, 70 Hz, 32 bpp
+	Display Mode 29: 1024 x 600, 75 Hz, 32 bpp
+	Display Mode 30: 1024 x 600, 75 Hz, 32 bpp
+	Display Mode 31: 1024 x 600, 75 Hz, 32 bpp
+	Display Mode 32: 1024 x 768, 60 Hz, 32 bpp
+	Display Mode 33: 1024 x 768, 70 Hz, 32 bpp
+	Display Mode 34: 1024 x 768, 75 Hz, 32 bpp
+	Display Mode 35: 1152 x 648, 50 Hz, 32 bpp
+	Display Mode 36: 1152 x 648, 59 Hz, 32 bpp
+	Display Mode 37: 1152 x 648, 60 Hz, 32 bpp
+	Display Mode 38: 1152 x 864, 59 Hz, 32 bpp
+	Display Mode 39: 1152 x 864, 60 Hz, 32 bpp
+	Display Mode 40: 1152 x 864, 59 Hz, 32 bpp
+	Display Mode 41: 1152 x 864, 60 Hz, 32 bpp
+	Display Mode 42: 1152 x 864, 59 Hz, 32 bpp
+	Display Mode 43: 1152 x 864, 60 Hz, 32 bpp
+	Display Mode 44: 1152 x 864, 75 Hz, 32 bpp
+	Display Mode 45: 1280 x 720, 50 Hz, 32 bpp
+	Display Mode 46: 1280 x 720, 59 Hz, 32 bpp
+	Display Mode 47: 1280 x 720, 60 Hz, 32 bpp
+	Display Mode 48: 1280 x 768, 60 Hz, 32 bpp
+	Display Mode 49: 1280 x 768, 60 Hz, 32 bpp
+	Display Mode 50: 1280 x 768, 60 Hz, 32 bpp
+	Display Mode 51: 1280 x 800, 60 Hz, 32 bpp
+	Display Mode 52: 1280 x 1024, 60 Hz, 32 bpp
+	Display Mode 53: 1280 x 1024, 75 Hz, 32 bpp
+	Display Mode 54: 1360 x 768, 60 Hz, 32 bpp
+	Display Mode 55: 1360 x 768, 60 Hz, 32 bpp
+	Display Mode 56: 1360 x 768, 60 Hz, 32 bpp
+	Display Mode 57: 1366 x 768, 60 Hz, 32 bpp
+	Display Mode 58: 1366 x 768, 60 Hz, 32 bpp
+	Display Mode 59: 1366 x 768, 60 Hz, 32 bpp
+	Display Mode 60: 1400 x 1050, 60 Hz, 32 bpp
+	Display Mode 61: 1440 x 900, 60 Hz, 32 bpp
+	Display Mode 62: 1600 x 900, 60 Hz, 32 bpp
+	Display Mode 63: 1680 x 1050, 60 Hz, 32 bpp
+	Display Mode 64: 1776 x 1000, 24 Hz, 32 bpp
+	Display Mode 65: 1776 x 1000, 25 Hz, 32 bpp INTERLACED
+	Display Mode 66: 1776 x 1000, 29 Hz, 32 bpp INTERLACED
+	Display Mode 67: 1776 x 1000, 30 Hz, 32 bpp INTERLACED
+	Display Mode 68: 1776 x 1000, 29 Hz, 32 bpp
+	Display Mode 69: 1776 x 1000, 30 Hz, 32 bpp
+	Display Mode 70: 1776 x 1000, 50 Hz, 32 bpp
+	Display Mode 71: 1776 x 1000, 59 Hz, 32 bpp
+	Display Mode 72: 1776 x 1000, 60 Hz, 32 bpp
+	Display Mode 73: 1920 x 1080, 23 Hz, 32 bpp
+	Display Mode 74: 1920 x 1080, 24 Hz, 32 bpp
+	Display Mode 75: 1920 x 1080, 25 Hz, 32 bpp INTERLACED
+	Display Mode 76: 1920 x 1080, 29 Hz, 32 bpp INTERLACED
+	Display Mode 77: 1920 x 1080, 30 Hz, 32 bpp INTERLACED
+	Display Mode 78: 1920 x 1080, 29 Hz, 32 bpp
+	Display Mode 79: 1920 x 1080, 30 Hz, 32 bpp
+	Display Mode 80: 1920 x 1080, 50 Hz, 32 bpp
+	Display Mode 81: 1920 x 1080, 59 Hz, 32 bpp
+	Display Mode 82: 1920 x 1080, 60 Hz, 32 bpp
+Adapter 1:
+	DeviceName = \\.\DISPLAY2
+	DeviceString = AMD Radeon (TM) RX 480
+	StateFlags = ACTIVE
+	Display Device 0:
+		DeviceName = \\.\DISPLAY2\Monitor0
+		DeviceString = Generic PnP Monitor
+		StateFlags = ACTIVE
+	Display Mode Current: 1920 x 1080, 59 Hz, 32 bpp
+	Display Mode Registry: 1920 x 1080, 59 Hz, 32 bpp
+	Display Mode 0: 640 x 480, 59 Hz, 32 bpp
+	Display Mode 1: 640 x 480, 60 Hz, 32 bpp
+	Display Mode 2: 640 x 480, 75 Hz, 32 bpp
+	Display Mode 3: 720 x 480, 59 Hz, 32 bpp
+	Display Mode 4: 720 x 480, 60 Hz, 32 bpp
+	Display Mode 5: 720 x 576, 50 Hz, 32 bpp
+	Display Mode 6: 720 x 576, 59 Hz, 32 bpp
+	Display Mode 7: 720 x 576, 60 Hz, 32 bpp
+	Display Mode 8: 720 x 576, 59 Hz, 32 bpp
+	Display Mode 9: 720 x 576, 60 Hz, 32 bpp
+	Display Mode 10: 720 x 576, 59 Hz, 32 bpp
+	Display Mode 11: 720 x 576, 60 Hz, 32 bpp
+	Display Mode 12: 800 x 480, 56 Hz, 32 bpp
+	Display Mode 13: 800 x 480, 56 Hz, 32 bpp
+	Display Mode 14: 800 x 480, 56 Hz, 32 bpp
+	Display Mode 15: 800 x 480, 60 Hz, 32 bpp
+	Display Mode 16: 800 x 480, 60 Hz, 32 bpp
+	Display Mode 17: 800 x 480, 60 Hz, 32 bpp
+	Display Mode 18: 800 x 480, 75 Hz, 32 bpp
+	Display Mode 19: 800 x 480, 75 Hz, 32 bpp
+	Display Mode 20: 800 x 480, 75 Hz, 32 bpp
+	Display Mode 21: 800 x 600, 56 Hz, 32 bpp
+	Display Mode 22: 800 x 600, 60 Hz, 32 bpp
+	Display Mode 23: 800 x 600, 75 Hz, 32 bpp
+	Display Mode 24: 1024 x 600, 60 Hz, 32 bpp
+	Display Mode 25: 1024 x 600, 60 Hz, 32 bpp
+	Display Mode 26: 1024 x 600, 60 Hz, 32 bpp
+	Display Mode 27: 1024 x 600, 75 Hz, 32 bpp
+	Display Mode 28: 1024 x 600, 75 Hz, 32 bpp
+	Display Mode 29: 1024 x 600, 75 Hz, 32 bpp
+	Display Mode 30: 1024 x 768, 60 Hz, 32 bpp
+	Display Mode 31: 1024 x 768, 75 Hz, 32 bpp
+	Display Mode 32: 1152 x 648, 50 Hz, 32 bpp
+	Display Mode 33: 1152 x 648, 59 Hz, 32 bpp
+	Display Mode 34: 1152 x 648, 60 Hz, 32 bpp
+	Display Mode 35: 1152 x 864, 59 Hz, 32 bpp
+	Display Mode 36: 1152 x 864, 60 Hz, 32 bpp
+	Display Mode 37: 1152 x 864, 59 Hz, 32 bpp
+	Display Mode 38: 1152 x 864, 60 Hz, 32 bpp
+	Display Mode 39: 1152 x 864, 59 Hz, 32 bpp
+	Display Mode 40: 1152 x 864, 60 Hz, 32 bpp
+	Display Mode 41: 1152 x 864, 75 Hz, 32 bpp
+	Display Mode 42: 1280 x 720, 50 Hz, 32 bpp
+	Display Mode 43: 1280 x 720, 59 Hz, 32 bpp
+	Display Mode 44: 1280 x 720, 60 Hz, 32 bpp
+	Display Mode 45: 1280 x 768, 60 Hz, 32 bpp
+	Display Mode 46: 1280 x 768, 60 Hz, 32 bpp
+	Display Mode 47: 1280 x 768, 60 Hz, 32 bpp
+	Display Mode 48: 1280 x 768, 75 Hz, 32 bpp
+	Display Mode 49: 1280 x 768, 75 Hz, 32 bpp
+	Display Mode 50: 1280 x 768, 75 Hz, 32 bpp
+	Display Mode 51: 1280 x 1024, 60 Hz, 32 bpp
+	Display Mode 52: 1280 x 1024, 75 Hz, 32 bpp
+	Display Mode 53: 1360 x 768, 60 Hz, 32 bpp
+	Display Mode 54: 1360 x 768, 60 Hz, 32 bpp
+	Display Mode 55: 1360 x 768, 60 Hz, 32 bpp
+	Display Mode 56: 1366 x 768, 60 Hz, 32 bpp
+	Display Mode 57: 1366 x 768, 60 Hz, 32 bpp
+	Display Mode 58: 1366 x 768, 60 Hz, 32 bpp
+	Display Mode 59: 1400 x 1050, 60 Hz, 32 bpp
+	Display Mode 60: 1400 x 1050, 60 Hz, 32 bpp
+	Display Mode 61: 1400 x 1050, 60 Hz, 32 bpp
+	Display Mode 62: 1600 x 900, 60 Hz, 32 bpp
+	Display Mode 63: 1600 x 900, 60 Hz, 32 bpp
+	Display Mode 64: 1600 x 900, 60 Hz, 32 bpp
+	Display Mode 65: 1680 x 1050, 60 Hz, 32 bpp
+	Display Mode 66: 1776 x 1000, 25 Hz, 32 bpp INTERLACED
+	Display Mode 67: 1776 x 1000, 29 Hz, 32 bpp INTERLACED
+	Display Mode 68: 1776 x 1000, 30 Hz, 32 bpp INTERLACED
+	Display Mode 69: 1776 x 1000, 50 Hz, 32 bpp
+	Display Mode 70: 1776 x 1000, 59 Hz, 32 bpp
+	Display Mode 71: 1776 x 1000, 60 Hz, 32 bpp
+	Display Mode 72: 1920 x 1080, 25 Hz, 32 bpp INTERLACED
+	Display Mode 73: 1920 x 1080, 29 Hz, 32 bpp INTERLACED
+	Display Mode 74: 1920 x 1080, 30 Hz, 32 bpp INTERLACED
+	Display Mode 75: 1920 x 1080, 50 Hz, 32 bpp
+	Display Mode 76: 1920 x 1080, 59 Hz, 32 bpp
+	Display Mode 77: 1920 x 1080, 60 Hz, 32 bpp
+Adapter 2:
+	DeviceName = \\.\DISPLAY3
+	DeviceString = AMD Radeon (TM) RX 480
+	StateFlags =
+	Display Mode Registry: 0 x 0, 0 (Default) Hz, 0 bpp
+Adapter 3:
+	DeviceName = \\.\DISPLAY4
+	DeviceString = AMD Radeon (TM) RX 480
+	StateFlags =
+	Display Mode Registry: 0 x 0, 0 (Default) Hz, 0 bpp
+Adapter 4:
+	DeviceName = \\.\DISPLAY5
+	DeviceString = AMD Radeon (TM) RX 480
+	StateFlags =
+	Display Mode Registry: 0 x 0, 0 (Default) Hz, 0 bpp
+Adapter 5:
+	DeviceName = \\.\DISPLAY6
+	DeviceString = AMD Radeon (TM) RX 480
+	StateFlags =
+	Display Mode Registry: 0 x 0, 0 (Default) Hz, 0 bpp
