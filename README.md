@@ -11,3 +11,7 @@ A simple Windows console C program that demonstrates how to enumerate and change
 ## [IsLog10.c](IsLog10.c)
 
 Simple C program demonstrating multiple solutions to a question: "Write a function that checks whether an integer number is a power of 10." Contains a set of tests. See my blog post: [How to check if an integer number is a power of 10?](http://www.asawicki.info/news_1660_how_to_check_if_an_integer_number_is_a_power_of_10.html).
+
+## [QueryPerformanceCounterTest.cpp](QueryPerformanceCounterTest.cpp)
+
+Simple C++ console program that tests how long it takes to call WinAPI function `QueryPerformanceCounter`. See my blog post: [When QueryPerformanceCounter call takes long time](http://asawicki.info/news_1667_when_queryperformancecounter_call_takes_long_time.html).
