@@ -15,3 +15,7 @@ Simple C program demonstrating multiple solutions to a question: "Write a functi
 ## [QueryPerformanceCounterTest.cpp](QueryPerformanceCounterTest.cpp)
 
 Simple C++ console program that tests how long it takes to call WinAPI function `QueryPerformanceCounter`. See my blog post: [When QueryPerformanceCounter call takes long time](http://asawicki.info/news_1667_when_queryperformancecounter_call_takes_long_time.html).
+
+## [VulkanAfterCrash.h](VulkanAfterCrash.h)
+
+Simple, single-header, C++ library for Vulkan that simplifies writing 32-bit markers to a buffer that can be read after graphics driver crash and thus help you find out which specific draw call or other command caused the crash, pretty much like [NVIDIA Aftermath](https://developer.nvidia.com/nvidia-aftermath) library for Direct3D 11/12.
