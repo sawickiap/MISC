@@ -27,7 +27,7 @@ How to use it:
    successfully written.
 
 See blog post:
-TODO
+http://asawicki.info/news_1677_debugging_vulkan_driver_crash_-_equivalent_of_nvidia_aftermath.html
 
 ////////////////////////////////////////////////////////////////////////////////
 

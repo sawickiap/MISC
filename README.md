@@ -18,4 +18,4 @@ Simple C++ console program that tests how long it takes to call WinAPI function 
 
 ## [VulkanAfterCrash.h](VulkanAfterCrash.h)
 
-Simple, single-header, C++ library for Vulkan that simplifies writing 32-bit markers to a buffer that can be read after graphics driver crash and thus help you find out which specific draw call or other command caused the crash, pretty much like [NVIDIA Aftermath](https://developer.nvidia.com/nvidia-aftermath) library for Direct3D 11/12.
+Simple, single-header, C++ library for Vulkan that simplifies writing 32-bit markers to a buffer that can be read after graphics driver crash and thus help you find out which specific draw call or other command caused the crash, pretty much like [NVIDIA Aftermath](https://developer.nvidia.com/nvidia-aftermath) library for Direct3D 11/12. See my blog post: [Debugging Vulkan driver crash - equivalent of NVIDIA Aftermath](http://asawicki.info/news_1677_debugging_vulkan_driver_crash_-_equivalent_of_nvidia_aftermath.html).
