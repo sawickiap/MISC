@@ -2,7 +2,7 @@
 VulkanAfterCrash.h
 
 Author:  Adam Sawicki, http://asawicki.info, adam__REMOVE__@asawicki.info
-Version: 1.0.0, 2018-03-28
+Version: 1.0.1, 2018-05-16
 License: MIT
 
 This is a simple, single-header, C++ library for Vulkan that simplifies writing
@@ -127,7 +127,7 @@ void VkAfterCrash_CmdWriteMarker(
     uint32_t value);
 
 /*
-Records command in a Vulkan command buffer that will write 32-bit marker to
+Records command to a Vulkan command buffer that will write 32-bit marker to
 specific place in specific buffer, after specific shader stage.
 
 It can be called inside or outside of render pass.
@@ -289,8 +289,12 @@ VkResult VkAfterCrash_Buffer_T::Initialize()
         return res;
 
     res = vkMapMemory(dev, m_VkMemory, 0, VK_WHOLE_SIZE, 0, (void**)&m_Data);
+    if(res != VK_SUCCESS)
+        return res;
 
     res = vkBindBufferMemory(dev, m_VkBuffer, m_VkMemory, 0);
+    if(res != VK_SUCCESS)
+        return res;
 
     return VK_SUCCESS;
 }
