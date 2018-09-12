@@ -45,7 +45,9 @@ still has mapped subresorces when executing a command list that performs a copy
 operation to the resource.(...) [ EXECUTION WARNING #927:
 EXECUTECOMMANDLISTS_GPU_WRITTEN_READBACK_RESOURCE_MAPPED]
 
-See also blog post about similar library for Vulkan:
+See also blog post:
+http://asawicki.info/news_1690_debugging_d3d12_driver_crash.html
+Similar library for Vulkan:
 http://asawicki.info/news_1677_debugging_vulkan_driver_crash_-_equivalent_of_nvidia_aftermath.html
 
 ////////////////////////////////////////////////////////////////////////////////

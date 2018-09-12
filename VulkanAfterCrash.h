@@ -28,6 +28,8 @@ How to use it:
 
 See blog post:
 http://asawicki.info/news_1677_debugging_vulkan_driver_crash_-_equivalent_of_nvidia_aftermath.html
+Similar library for Direct3D 12:
+http://asawicki.info/news_1690_debugging_d3d12_driver_crash.html
 
 ////////////////////////////////////////////////////////////////////////////////
 
