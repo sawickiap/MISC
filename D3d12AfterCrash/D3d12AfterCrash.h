@@ -31,7 +31,7 @@ Requirements:
 
 - Windows 10 Fall Creators Update.
   If you have too old version of Windows, you will experience crashes because
-  ID3D12GraphicsCommandList interface cannot be obtained.
+  ID3D12GraphicsCommandList2 interface cannot be obtained.
 - Windows SDK in version at least for Windows 10 Fall Creators Update.
   If you have too old version of Windows SDK, you will see compilation errors
   about identifier ID3D12GraphicsCommandList2 not found.
