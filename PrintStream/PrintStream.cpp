@@ -70,7 +70,7 @@ void CPrintStream::vprintf(const TCHAR* format, va_list argList)
 		bool useSmallBuf = dstLen + 1 < SMALL_BUF_SIZE;
 		TCHAR smallBuf[SMALL_BUF_SIZE];
 		std::vector<TCHAR> bigBuf(useSmallBuf ? 0 : dstLen + 1);
-		TCHAR* bufPtr = useSmallBuf ? smallBuf : &bigBuf.data();
+		TCHAR* bufPtr = useSmallBuf ? smallBuf : bigBuf.data();
 		::TVSPRINTF_S(bufPtr, dstLen + 1, format, argList);
 		print(bufPtr, dstLen);
 	}
