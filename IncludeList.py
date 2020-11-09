@@ -3,9 +3,6 @@
 # Author:  Adam Sawicki, http://asawicki.info, adam__REMOVE__@asawicki.info
 # Version: 20.11.9
 # License: Public Domain
-#
-# See blog post:
-# https://asawicki.info/news_1737
 
 import argparse
 import os.path
