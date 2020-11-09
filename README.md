@@ -24,4 +24,4 @@ Simple, single-header, C++ library for Vulkan that simplifies writing 32-bit mar
 
 Simple Python script that parses given text file to find the list of files included by it using `#include <FileName>` or `#include "FileName"`, recursively. Supports `-I` parameter for additional include directories. Supports any programming language that uses C-like preprocessor, e.g. C, C++, HLSL, GLSL.
 
-Shortcomings: ► Doesn't parse comments or perform full preprocessing, so includes commented out using multiline comment `/* ... */` or macros like `#if 0` are still parsed. ► File names are case-sensitive, so files included with different capitalization are treated as separate.
+Shortcomings: ► Doesn't parse comments or perform full preprocessing, so includes commented out using multiline comment `/* ... */` or macros like `#if 0` are still parsed. ► File names are case-sensitive, so files includes with different capitalization are treated as separate.
