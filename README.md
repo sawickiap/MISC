@@ -19,3 +19,9 @@ Simple C++ console program that tests how long it takes to call WinAPI function 
 ## [VulkanAfterCrash.h](VulkanAfterCrash.h)
 
 Simple, single-header, C++ library for Vulkan that simplifies writing 32-bit markers to a buffer that can be read after graphics driver crash and thus help you find out which specific draw call or other command caused the crash, pretty much like [NVIDIA Aftermath](https://developer.nvidia.com/nvidia-aftermath) library for Direct3D 11/12. See my blog post: [Debugging Vulkan driver crash - equivalent of NVIDIA Aftermath](http://asawicki.info/news_1677_debugging_vulkan_driver_crash_-_equivalent_of_nvidia_aftermath.html).
+
+## [IncludeList.py](IncludeList.py)
+
+Simple Python script that parses given text file to find the list of files included by it using `#include <FileName>` or `#include "FileName"`, recursively. Supports `-I` parameter for additional include directories. Supports any programming language that uses C-like preprocessor, e.g. C, C++, HLSL, GLSL.
+
+Shortcomings: ► Doesn't parse comments or perform full preprocessing, so includes commented out using multiline comment `/* ... */` or macros like `#if 0` are still parsed. ► File names are case-sensitive, so files included with different capitalization are treated as separate.
