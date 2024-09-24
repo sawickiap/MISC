@@ -4,7 +4,7 @@
 # values of 8-bit floating-point (FP8) data types used in machine learning.
 # Developed to generate tables for the article:
 #
-# <LINK TBD>
+# https://asawicki.info/articles/fp8_tables.php
 #
 # Author:  Adam Sawicki, https://asawicki.info, adam__REMOVE__@asawicki.info
 # Version: 1.0
